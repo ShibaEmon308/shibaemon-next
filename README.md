@@ -76,6 +76,14 @@ eslint-plugin-react@latest @typescript-eslint/eslint-plugin@latest @typescript-e
 
 Run ESlint
 Write in package.json
-"lint": "eslint . --ext .js, .ts, .tsx"
+"lint": "eslint . --ext .js, .ts, .tsx" 👈NG
+"lint": "eslint --ext .js,.jsx,.ts,.tsx" 👈OK
+https://qiita.com/karak/items/12811d235b0d8bc8ad00
 
 Setting OFF in .eslintrc.js
+
+Check $ yarn lint
+
+$ yarn add -D prettier eslint-plugin-prettier eslint-config-prettier
+
+ $ yarn lint --fix
