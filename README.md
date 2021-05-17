@@ -86,4 +86,6 @@ Check $ yarn lint
 
 $ yarn add -D prettier eslint-plugin-prettier eslint-config-prettier
 
- $ yarn lint --fix
+$ yarn lint --fix
+
+### Build Home
