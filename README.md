@@ -89,3 +89,12 @@ $ yarn add -D prettier eslint-plugin-prettier eslint-config-prettier
 $ yarn lint --fix
 
 ### Build Home
+
+test make index.tsx & add Head
+
+add favicon
+https://emojipedia.org/
+
+#### make index.tsx by static server generation
+#### make blog page by next.mdx remote module
+
