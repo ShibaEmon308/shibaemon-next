@@ -101,3 +101,17 @@ https://emojipedia.org/
 https://github.com/gaearon/overreacted.io/blob/master/src/pages/a-complete-guide-to-useeffect/index.md
 
 https://github.com/gaearon/overreacted.io/blob/master/src/pages/a-complete-guide-to-useeffect/index.ja.md
+
+md file →　mdx file
+need two library
+
+$ yarn add next-mdx-remote gray-matter
+
+gray-matter = calling 'front matter'
+get perse top of the meta md file 
+
+next-mdx-remote 
+persed articles change jsx
+by teraform
+
+dynamic routing
