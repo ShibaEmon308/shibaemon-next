@@ -98,3 +98,6 @@ https://emojipedia.org/
 #### make index.tsx by static server generation
 #### make blog page by next.mdx remote module
 
+https://github.com/gaearon/overreacted.io/blob/master/src/pages/a-complete-guide-to-useeffect/index.md
+
+https://github.com/gaearon/overreacted.io/blob/master/src/pages/a-complete-guide-to-useeffect/index.ja.md
